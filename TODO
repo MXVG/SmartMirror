@@ -1,0 +1,57 @@
+
+WHY ARE YOU DOING THIS?
+
+Help people prepare for their day
+    * Keep track of time while getting ready
+    * Let them know the weather
+    * Show them the events they have for today
+    * Catchup on emails they missed overnight
+
+Help people get ready for bed
+    * Minimal user interaction
+    * Prepare for tomorrow (how?)
+    * Habit tracker
+
+----------------------------------------------------------
+
+MODULAR FEATURES
+
+* Weather
+    - Daily weather forcast [icon + stats]
+        + H&L Temp, % of Rain
+        + Hourly weather
+            + Temp, % of Rain
+    - Weekly weather forecast by day
+        + H&L Temp, % of Rain per day
+
+* Time
+    - AM/PM format
+    - Military time format
+
+* To-do List
+    - Google Calendar Integration
+    - Asana Integration
+    - Notion integration (stretch goal)
+
+* Habit tracker
+    - Simple "Did you do ____ today?"
+
+----------------------------------------------------------
+
+DELIVERABLES
+
+1) Suite of features that users can chose to customize their mirror with
+    - See MODULAR FEATURES section
+
+2) Users should be able to interact with mirror without smudging the glass
+
+3) Desktop application to add/remove features
+
+4) Profiles for multiple users
+
+
+
+
+10/15
+Asset loading is done per folder.
+i.e one folder per asset

@@ -1,0 +1,3 @@
+/home/mxvg/Desktop/projects/SmartMirror/Shaders/build/CMakeFiles/SmartMirror.dir
+/home/mxvg/Desktop/projects/SmartMirror/Shaders/build/CMakeFiles/edit_cache.dir
+/home/mxvg/Desktop/projects/SmartMirror/Shaders/build/CMakeFiles/rebuild_cache.dir

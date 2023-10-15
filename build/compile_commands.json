@@ -1,0 +1,57 @@
+[
+{
+  "directory": "/home/mxvg/Desktop/projects/SmartMirror/Shaders/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/SmartMirror.dir/src/main.cpp.o -c /home/mxvg/Desktop/projects/SmartMirror/Shaders/src/main.cpp",
+  "file": "/home/mxvg/Desktop/projects/SmartMirror/Shaders/src/main.cpp"
+},
+{
+  "directory": "/home/mxvg/Desktop/projects/SmartMirror/Shaders/build",
+  "command": "/usr/bin/gcc   -g -o CMakeFiles/SmartMirror.dir/src/glad.c.o -c /home/mxvg/Desktop/projects/SmartMirror/Shaders/src/glad.c",
+  "file": "/home/mxvg/Desktop/projects/SmartMirror/Shaders/src/glad.c"
+},
+{
+  "directory": "/home/mxvg/Desktop/projects/SmartMirror/Shaders/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/SmartMirror.dir/src/shader_s.cpp.o -c /home/mxvg/Desktop/projects/SmartMirror/Shaders/src/shader_s.cpp",
+  "file": "/home/mxvg/Desktop/projects/SmartMirror/Shaders/src/shader_s.cpp"
+},
+{
+  "directory": "/home/mxvg/Desktop/projects/SmartMirror/Shaders/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/SmartMirror.dir/src/ShapeLibrary/ShapeGen.cpp.o -c /home/mxvg/Desktop/projects/SmartMirror/Shaders/src/ShapeLibrary/ShapeGen.cpp",
+  "file": "/home/mxvg/Desktop/projects/SmartMirror/Shaders/src/ShapeLibrary/ShapeGen.cpp"
+},
+{
+  "directory": "/home/mxvg/Desktop/projects/SmartMirror/Shaders/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/SmartMirror.dir/src/GraphicsManager.cpp.o -c /home/mxvg/Desktop/projects/SmartMirror/Shaders/src/GraphicsManager.cpp",
+  "file": "/home/mxvg/Desktop/projects/SmartMirror/Shaders/src/GraphicsManager.cpp"
+},
+{
+  "directory": "/home/mxvg/Desktop/projects/SmartMirror/Shaders/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/SmartMirror.dir/src/HttpClient.cpp.o -c /home/mxvg/Desktop/projects/SmartMirror/Shaders/src/HttpClient.cpp",
+  "file": "/home/mxvg/Desktop/projects/SmartMirror/Shaders/src/HttpClient.cpp"
+},
+{
+  "directory": "/home/mxvg/Desktop/projects/SmartMirror/Shaders/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/SmartMirror.dir/src/Modules/MirrorMod.cpp.o -c /home/mxvg/Desktop/projects/SmartMirror/Shaders/src/Modules/MirrorMod.cpp",
+  "file": "/home/mxvg/Desktop/projects/SmartMirror/Shaders/src/Modules/MirrorMod.cpp"
+},
+{
+  "directory": "/home/mxvg/Desktop/projects/SmartMirror/Shaders/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/SmartMirror.dir/src/Modules/HandTracking/HandTrackingM.cpp.o -c /home/mxvg/Desktop/projects/SmartMirror/Shaders/src/Modules/HandTracking/HandTrackingM.cpp",
+  "file": "/home/mxvg/Desktop/projects/SmartMirror/Shaders/src/Modules/HandTracking/HandTrackingM.cpp"
+},
+{
+  "directory": "/home/mxvg/Desktop/projects/SmartMirror/Shaders/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/SmartMirror.dir/src/Modules/Test/TestModule.cpp.o -c /home/mxvg/Desktop/projects/SmartMirror/Shaders/src/Modules/Test/TestModule.cpp",
+  "file": "/home/mxvg/Desktop/projects/SmartMirror/Shaders/src/Modules/Test/TestModule.cpp"
+},
+{
+  "directory": "/home/mxvg/Desktop/projects/SmartMirror/Shaders/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/SmartMirror.dir/src/Modules/Time/TimeModule.cpp.o -c /home/mxvg/Desktop/projects/SmartMirror/Shaders/src/Modules/Time/TimeModule.cpp",
+  "file": "/home/mxvg/Desktop/projects/SmartMirror/Shaders/src/Modules/Time/TimeModule.cpp"
+},
+{
+  "directory": "/home/mxvg/Desktop/projects/SmartMirror/Shaders/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/SmartMirror.dir/src/Modules/Weather/WeatherModule.cpp.o -c /home/mxvg/Desktop/projects/SmartMirror/Shaders/src/Modules/Weather/WeatherModule.cpp",
+  "file": "/home/mxvg/Desktop/projects/SmartMirror/Shaders/src/Modules/Weather/WeatherModule.cpp"
+}
+]
